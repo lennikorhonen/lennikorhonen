@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: [lennikorhonen, linkedin](https://www.linkedin.com/in/lenni-korhonen-a96090194/)
-- 🌱 I’m currently 
+- 🌱 I’m currently learning python
 - I’m currently looking for Junior/Entry level job
 <!--
 **lennikorhonen/lennikorhonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

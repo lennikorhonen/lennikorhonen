@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 📫 How to reach me: [lennikorhonen, linkedin](https://www.linkedin.com/in/lenni-korhonen-a96090194/)
 - 🌱 I’m currently learning Node.js and Python

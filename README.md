@@ -3,7 +3,6 @@
 - 📫 How to reach me: [lennikorhonen, linkedin](https://www.linkedin.com/in/lenni-korhonen-a96090194/)
 - 🌱 I’m currently learning Node.js and Python
 - I'm currently working on [This school project](https://github.com/Zeppily/Softala-Version-Checker)
-- I’m looking for Junior/Entry/Intern level job
 <!--
 **lennikorhonen/lennikorhonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

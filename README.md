@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 📫 How to reach me: [lennikorhonen, linkedin](https://www.linkedin.com/in/lenni-korhonen-a96090194/)
-- 🌱 I’m currently learning Node.js and Python
+- 🌱 I’m currently learning Clojure
 - Currently at internship but open for job offers
 <!--
 **lennikorhonen/lennikorhonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
